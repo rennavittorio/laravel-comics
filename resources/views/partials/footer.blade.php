@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-6 d-flex justify-content-start align-items-center">
-                <img src="{{ Vite::asset('resources/img/dc-logo-bg.png')}}" alt="" class="logo">
+                <img src="{{ Vite::asset('resources/img/dc-logo.png')}}" alt="" class="logo">
             </div>
             <div class="col-6">
                 <ul class="list__link m-0 text-white d-flex flex-column align-items-end">
