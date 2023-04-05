@@ -234,3 +234,7 @@ Route::get('/', function () {
 
     return view('home', $data);
 });
+
+Route::get('/contacts', function () {
+    return view('pages.contacts');
+});
