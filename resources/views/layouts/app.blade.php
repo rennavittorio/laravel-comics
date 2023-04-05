@@ -19,9 +19,13 @@
 
     @include('partials.header')
 
-    <main>
+    <main class="main py-5">
 
-        @yield('content')
+        <div class="container">
+            
+            @yield('content')
+
+        </div>
 
     </main>
 
